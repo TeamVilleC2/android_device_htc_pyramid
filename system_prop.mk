@@ -1,5 +1,5 @@
 #
-# system_prop.mk for pyramid
+# system_prop.mk for villec2
 #
 
 PRODUCT_PROPERTY_OVERRIDES += \
