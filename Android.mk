@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-ifeq ($(TARGET_DEVICE),pyramid)
+ifeq ($(TARGET_DEVICE),villec2)
 ifeq ($(TARGET_BOARD_PLATFORM),msm8660)
 
 LOCAL_PATH := $(call my-dir)
